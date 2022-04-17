@@ -1,0 +1,3 @@
+/home/enigma/project/rk/13 glava/task2/cmake-build-debug/CMakeFiles/task2.dir
+/home/enigma/project/rk/13 glava/task2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/enigma/project/rk/13 glava/task2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
